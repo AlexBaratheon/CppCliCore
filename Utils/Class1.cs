@@ -1,4 +1,4 @@
-﻿namespace KSUtils
+﻿namespace Utils
 {
 	public class Class1
 	{
